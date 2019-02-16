@@ -1,0 +1,7 @@
+base   webcomics
+author LarsDW223
+email  -
+date   2019-02-16
+name   Webcomics
+desc   It displays various Webcomics from configurable RSS feeds.
+url    https://dokuwiki.org/plugin:webcomics
